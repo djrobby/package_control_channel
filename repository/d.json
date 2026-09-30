@@ -829,6 +829,16 @@
 				}
 			]
 		},
+    {
+        "name": "DeWatermark",
+        "details": "https://github.com/djrobby/DeWatermark",
+        "releases": [
+            {
+                "sublime_text": ">=3000",
+                "tags": true
+            }
+        ]
+    },
 		{
 			"name": "DFML (for Dwarf Fortress raws)",
 			"details": "https://github.com/philipguin/dfml-sublime-package",
